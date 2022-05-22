@@ -1,0 +1,7 @@
+In Order to run this project you should:
+(this project build using Python, therfor you should have python installed in your machine)
+1- Download the project folder which contains the file "main.py" ,"requirements.txt" ,"RuningGuide"  and the subfolder "Model"
+2- Navigate into the project folder and open cmd window in the folder path
+3- install all the libraries included in the file "requirements.txt" by executing the command "pip install - r requirements.txt"
+4- Run "main.py" by executing the command "python main.py" and it should create new server  Running on "http://127.0.0.1:5050/"
+5- Make the request for the API' using Postman
